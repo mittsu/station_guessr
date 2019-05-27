@@ -1,7 +1,5 @@
-
 STATION_GUESSR
-
-===
+====
 
 ## Description
 
